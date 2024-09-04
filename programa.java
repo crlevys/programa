@@ -1,6 +1,7 @@
 class perro{
 	String nombre;
+	int x;
 	perro(){
-		return 0;
+		return x;
 	}
 }
