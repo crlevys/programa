@@ -4,4 +4,6 @@ class perro{
 	perro(){
 		return x;
 	}
+	void pasear(){}
+	void caminar(){}
 }
