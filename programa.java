@@ -6,4 +6,5 @@ class perro{
 	}
 	void pasear(){}
 	void caminar(){}
+	void nuevo(){}
 }
